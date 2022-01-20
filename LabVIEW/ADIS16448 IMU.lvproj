@@ -243,7 +243,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="Bld_localDestDir" Type="Path">../builds/ADIS16448-IMU/ThirdParty</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5C9CA66C-F16B-4A3B-95C3-90689364D2FE}</Property>
-				<Property Name="Bld_version.build" Type="Int">42</Property>
+				<Property Name="Bld_version.build" Type="Int">44</Property>
 				<Property Name="Bld_version.major" Type="Int">2022</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
@@ -294,7 +294,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="NIPKG_installerArtifacts" Type="Str"></Property>
 				<Property Name="NIPKG_installerBuiltBefore" Type="Bool">false</Property>
 				<Property Name="NIPKG_installerDestination" Type="Path"></Property>
-				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2019_2022.1.0-38_windows_all.nipkg</Property>
+				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2019_2022.1.0-40_windows_all.nipkg</Property>
 				<Property Name="NIPKG_license" Type="Ref"></Property>
 				<Property Name="NIPKG_releaseNotes" Type="Str">This is for LabVIEW 2019</Property>
 				<Property Name="NIPKG_storeProduct" Type="Bool">false</Property>
@@ -302,7 +302,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_actions.Count" Type="Int">0</Property>
 				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
 				<Property Name="PKG_autoSelectDeps" Type="Bool">false</Property>
-				<Property Name="PKG_buildNumber" Type="Int">39</Property>
+				<Property Name="PKG_buildNumber" Type="Int">41</Property>
 				<Property Name="PKG_buildSpecName" Type="Str">ADIS16448 IMU Package LV 2019</Property>
 				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
 				<Property Name="PKG_description" Type="Str">This is for LabVIEW 2019</Property>
@@ -335,7 +335,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_displayVersion" Type="Str"></Property>
 				<Property Name="PKG_feedDescription" Type="Str"></Property>
 				<Property Name="PKG_feedName" Type="Str"></Property>
-				<Property Name="PKG_homepage" Type="Str"></Property>
+				<Property Name="PKG_homepage" Type="Str">https://github.com/jsimpso81/ADIS16448-RoboRIO-Driver/</Property>
 				<Property Name="PKG_hostname" Type="Str"></Property>
 				<Property Name="PKG_lvrteTracking" Type="Bool">false</Property>
 				<Property Name="PKG_maintainer" Type="Str">J. A. Simpson &lt;&gt;</Property>
@@ -361,7 +361,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="NIPKG_installerArtifacts" Type="Str"></Property>
 				<Property Name="NIPKG_installerBuiltBefore" Type="Bool">false</Property>
 				<Property Name="NIPKG_installerDestination" Type="Path"></Property>
-				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2020_2022.1.0-38_windows_all.nipkg</Property>
+				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2020_2022.1.0-40_windows_all.nipkg</Property>
 				<Property Name="NIPKG_license" Type="Ref"></Property>
 				<Property Name="NIPKG_releaseNotes" Type="Str">This is for LabVIEW 2020</Property>
 				<Property Name="NIPKG_storeProduct" Type="Bool">false</Property>
@@ -369,7 +369,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_actions.Count" Type="Int">0</Property>
 				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
 				<Property Name="PKG_autoSelectDeps" Type="Bool">false</Property>
-				<Property Name="PKG_buildNumber" Type="Int">39</Property>
+				<Property Name="PKG_buildNumber" Type="Int">41</Property>
 				<Property Name="PKG_buildSpecName" Type="Str">ADIS16448 IMU Package LV 2020</Property>
 				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
 				<Property Name="PKG_description" Type="Str">This is for LabVIEW 2020</Property>
@@ -402,7 +402,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_displayVersion" Type="Str"></Property>
 				<Property Name="PKG_feedDescription" Type="Str"></Property>
 				<Property Name="PKG_feedName" Type="Str"></Property>
-				<Property Name="PKG_homepage" Type="Str"></Property>
+				<Property Name="PKG_homepage" Type="Str">https://github.com/jsimpso81/ADIS16448-RoboRIO-Driver/</Property>
 				<Property Name="PKG_hostname" Type="Str"></Property>
 				<Property Name="PKG_lvrteTracking" Type="Bool">false</Property>
 				<Property Name="PKG_maintainer" Type="Str">J. A. Simpson &lt;&gt;</Property>
