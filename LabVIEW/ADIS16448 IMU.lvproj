@@ -243,9 +243,9 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="Bld_localDestDir" Type="Path">../builds/ADIS16448-IMU/ThirdParty</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5C9CA66C-F16B-4A3B-95C3-90689364D2FE}</Property>
-				<Property Name="Bld_version.build" Type="Int">44</Property>
+				<Property Name="Bld_version.build" Type="Int">47</Property>
 				<Property Name="Bld_version.major" Type="Int">2022</Property>
-				<Property Name="Bld_version.minor" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/ADIS16448-IMU/ThirdParty</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
@@ -261,7 +261,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="Destination[3].path" Type="Path">../builds/ADIS16448-IMU/ThirdParty/ADI/ADIS16448/SubVI</Property>
 				<Property Name="Destination[3].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">4</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9899F113-2C9E-4D14-A957-7E9F25462403}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{CB52B802-8BC1-4D6E-B690-0BA0C63D3EFD}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
@@ -294,7 +294,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="NIPKG_installerArtifacts" Type="Str"></Property>
 				<Property Name="NIPKG_installerBuiltBefore" Type="Bool">false</Property>
 				<Property Name="NIPKG_installerDestination" Type="Path"></Property>
-				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2019_2022.1.0-40_windows_all.nipkg</Property>
+				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2019_2022.2.0-46_windows_all.nipkg</Property>
 				<Property Name="NIPKG_license" Type="Ref"></Property>
 				<Property Name="NIPKG_releaseNotes" Type="Str">This is for LabVIEW 2019</Property>
 				<Property Name="NIPKG_storeProduct" Type="Bool">false</Property>
@@ -302,7 +302,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_actions.Count" Type="Int">0</Property>
 				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
 				<Property Name="PKG_autoSelectDeps" Type="Bool">false</Property>
-				<Property Name="PKG_buildNumber" Type="Int">41</Property>
+				<Property Name="PKG_buildNumber" Type="Int">47</Property>
 				<Property Name="PKG_buildSpecName" Type="Str">ADIS16448 IMU Package LV 2019</Property>
 				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
 				<Property Name="PKG_description" Type="Str">This is for LabVIEW 2019</Property>
@@ -351,7 +351,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_sources[0].ID" Type="Ref">/My Computer/Build Specifications/ADIS16448 IMU</Property>
 				<Property Name="PKG_sources[0].Type" Type="Str">Build</Property>
 				<Property Name="PKG_synopsis" Type="Str">ADIS16448 IMU Library for FIRST Robotics and the RoboRIO Built Around WPILib</Property>
-				<Property Name="PKG_version" Type="Str">2022.1.0</Property>
+				<Property Name="PKG_version" Type="Str">2022.2.0</Property>
 			</Item>
 			<Item Name="ADIS16448 IMU Package LV 2020" Type="{E661DAE2-7517-431F-AC41-30807A3BDA38}">
 				<Property Name="NIPKG_addToFeed" Type="Bool">false</Property>
@@ -361,7 +361,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="NIPKG_installerArtifacts" Type="Str"></Property>
 				<Property Name="NIPKG_installerBuiltBefore" Type="Bool">false</Property>
 				<Property Name="NIPKG_installerDestination" Type="Path"></Property>
-				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2020_2022.1.0-40_windows_all.nipkg</Property>
+				<Property Name="NIPKG_lastBuiltPackage" Type="Str">adis16448-imu-lv-2020_2022.2.0-46_windows_all.nipkg</Property>
 				<Property Name="NIPKG_license" Type="Ref"></Property>
 				<Property Name="NIPKG_releaseNotes" Type="Str">This is for LabVIEW 2020</Property>
 				<Property Name="NIPKG_storeProduct" Type="Bool">false</Property>
@@ -369,7 +369,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_actions.Count" Type="Int">0</Property>
 				<Property Name="PKG_autoIncrementBuild" Type="Bool">true</Property>
 				<Property Name="PKG_autoSelectDeps" Type="Bool">false</Property>
-				<Property Name="PKG_buildNumber" Type="Int">41</Property>
+				<Property Name="PKG_buildNumber" Type="Int">47</Property>
 				<Property Name="PKG_buildSpecName" Type="Str">ADIS16448 IMU Package LV 2020</Property>
 				<Property Name="PKG_dependencies.Count" Type="Int">0</Property>
 				<Property Name="PKG_description" Type="Str">This is for LabVIEW 2020</Property>
@@ -418,7 +418,7 @@ This example expects a USB cable connected from your development PC to the Type 
 				<Property Name="PKG_sources[0].ID" Type="Ref">/My Computer/Build Specifications/ADIS16448 IMU</Property>
 				<Property Name="PKG_sources[0].Type" Type="Str">Build</Property>
 				<Property Name="PKG_synopsis" Type="Str">ADIS16448 IMU Library for FIRST Robotics and the RoboRIO Built Around WPILib</Property>
-				<Property Name="PKG_version" Type="Str">2022.1.0</Property>
+				<Property Name="PKG_version" Type="Str">2022.2.0</Property>
 			</Item>
 		</Item>
 	</Item>
